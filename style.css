@@ -161,6 +161,9 @@ section {
 }
 
 /* PRFOILE SECTION */
+img {
+    border-radius: 50%;
+  }
 
 #profile {
     display: flex;
